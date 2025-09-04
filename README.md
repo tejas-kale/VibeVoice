@@ -1,5 +1,7 @@
 <div align="center">
 
+**Note**: This is a fork of the original [VibeVoice](https://github.com/microsoft/VibeVoice) which was taken down on September 4, 2025.
+
 ## 🎙️ VibeVoice: A Frontier Long Conversational Text-to-Speech Model
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=microsoft)](https://microsoft.github.io/VibeVoice)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f)
